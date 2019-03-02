@@ -2,8 +2,9 @@
 
 
 
-/* body{background-image: url(https://designmodo.com/wp-content/uploads/2012/10/09.jpg); background-repeat: repeat;}; */
+body{background-image: url(https://designmodo.com/wp-content/uploads/2012/10/09.jpg); background-repeat: repeat;}
 
-header{background-color: aqua; color:white;};
+/* div{background-color:} */
 
-.container{background-color: darkkhaki;}
+img{height:100px; width: 100ps;}
+
