@@ -2,9 +2,15 @@
 
 
 
-body{background-image: url(https://designmodo.com/wp-content/uploads/2012/10/09.jpg); background-repeat: repeat;}
+body{background-image: url(https://lonelyplanetwpnews.imgix.net/2018/03/shutterstockRF_618156158-Edited.jpg); background-repeat: repeat; margin: 0%;}
 
-/* div{background-color:} */
+header{background-image: url(https://previews.123rf.com/images/lightstonemedia/lightstonemedia1705/lightstonemedia170500057/79375395-irregular-pattern-of-a-rock-face-at-a-quarry.jpg); color: white; width: 100%; margin-left: 0%; text-align: center;}
 
-img{height:100px; width: 100ps;}
+.title{background-color: black; opacity: 0.5;}
+
+#here{width: 35%; background-color: khaki; margin-left: 2%;}
+
+img{height:150px; width: 150px;}
+
+.pics{margin-left: 2%; margin-top: 2%;}
 
